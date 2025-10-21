@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>3. Diseño y configuración | KNX con ETS5</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>3 · Diseño y configuración en ETS5</h1>
+      <p>
+        Construye la topología del proyecto, organiza los grupos de comunicación y
+        parametriza cada dispositivo para reflejar la funcionalidad deseada en la
+        instalación KNX.
+      </p>
+    </header>
+
+    <main>
+      <div class="breadcrumbs">
+        <a href="../index.html">← Volver al índice</a>
+        <span>Diapositiva 3 de 6</span>
+      </div>
+
+      <section>
+        <h2>Construcción de la topología</h2>
+        <figure>
+          <img
+            src="../assets/images/ets5-topology.svg"
+            alt="Vista de topología en ETS5 con áreas, líneas y dispositivos"
+          />
+          <figcaption>
+            La vista de topología de ETS5 permite validar direcciones y jerarquías antes de programar.
+          </figcaption>
+        </figure>
+        <ul class="list-highlight">
+          <li>Añade áreas, líneas y dispositivos desde catálogos actualizados.</li>
+          <li>Asigna direcciones individuales (AAA.LL.DD) sin solapamientos.</li>
+          <li>Documenta ubicación física, tablero y circuito asociado.</li>
+          <li>Sincroniza la topología digital con la instalación en campo.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Configuración de grupos y canales</h2>
+        <ul class="list-highlight">
+          <li>Crea grupos principales (iluminación, clima, persianas, seguridad).</li>
+          <li>Organiza subgrupos por zona y función con direcciones x/y/z.</li>
+          <li>Vincula objetos de comunicación a sus direcciones de grupo.</li>
+          <li>Utiliza colores, comentarios y filtros para ganar claridad.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Parametrización de dispositivos</h2>
+        <ul class="list-highlight">
+          <li>Ajusta opciones de pulsadores, temporizadores, escenas y lógica.</li>
+          <li>Aplica plantillas y duplica configuraciones para ahorrar tiempo.</li>
+          <li>Verifica la compatibilidad de tipos de dato (DPT) entre objetos.</li>
+          <li>Realiza una revisión cruzada con las especificaciones del fabricante.</li>
+        </ul>
+      </section>
+
+      <div class="slide-navigation">
+        <a href="02-planificacion.html">← Anterior: Planificación</a>
+        <a href="04-programacion-descarga.html">Siguiente: Programación y pruebas →</a>
+      </div>
+    </main>
+  </body>
+</html>

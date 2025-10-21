@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Descarga al bus en ETS5</title>
+  <desc id="desc">Vista recreada del panel de programación y monitor de bus en ETS5 durante una descarga.</desc>
+  <rect width="1280" height="720" fill="#10192b" />
+  <rect x="70" y="60" width="1140" height="600" rx="18" fill="#f5f8fd" stroke="#c9d3e6" stroke-width="3" />
+  <rect x="70" y="60" width="1140" height="54" rx="18" fill="#1f2c41" />
+  <text x="110" y="97" font-family="'Segoe UI', sans-serif" font-size="22" fill="#f4f7fb">Programación y monitorización</text>
+  <rect x="960" y="78" width="220" height="28" rx="14" fill="#3ad3ff" opacity="0.85" />
+  <text x="1020" y="97" font-family="'Segoe UI', sans-serif" font-size="16" fill="#102037">Descargar al dispositivo</text>
+  <rect x="100" y="140" width="520" height="220" rx="12" fill="#ffffff" />
+  <text x="120" y="176" font-family="'Segoe UI', sans-serif" font-size="18" fill="#233550" font-weight="600">Progreso de programación</text>
+  <rect x="120" y="200" width="480" height="20" rx="10" fill="#d0daed" />
+  <rect x="120" y="200" width="360" height="20" rx="10" fill="#3ad3ff" />
+  <text x="120" y="240" font-family="'Segoe UI', sans-serif" font-size="16" fill="#3f5273">Dispositivo: 1.1.5 Pulsador 4 canales</text>
+  <text x="120" y="270" font-family="'Segoe UI', sans-serif" font-size="16" fill="#3f5273">Estado: Transferencia de aplicación (75%)</text>
+  <text x="120" y="300" font-family="'Segoe UI', sans-serif" font-size="16" fill="#3f5273">Tiempo estimado restante: 00:18</text>
+  <rect x="100" y="380" width="520" height="250" rx="12" fill="#ffffff" />
+  <text x="120" y="416" font-family="'Segoe UI', sans-serif" font-size="18" fill="#233550" font-weight="600">Checklist de descarga</text>
+  <text x="120" y="448" font-family="'Segoe UI', sans-serif" font-size="15" fill="#4f6284">☑ Firmware actualizado</text>
+  <text x="120" y="478" font-family="'Segoe UI', sans-serif" font-size="15" fill="#4f6284">☑ Dirección individual verificada</text>
+  <text x="120" y="508" font-family="'Segoe UI', sans-serif" font-size="15" fill="#4f6284">☐ Contraseña de programación establecida</text>
+  <text x="120" y="538" font-family="'Segoe UI', sans-serif" font-size="15" fill="#4f6284">☐ Prueba funcional pendiente</text>
+  <rect x="660" y="140" width="520" height="490" rx="12" fill="#ffffff" />
+  <text x="680" y="176" font-family="'Segoe UI', sans-serif" font-size="18" fill="#233550" font-weight="600">Monitor de bus KNX</text>
+  <rect x="680" y="200" width="480" height="1" fill="#d3dcef" />
+  <g font-family="'Consolas', 'Fira Code', monospace" font-size="14" fill="#344a6a">
+    <text x="690" y="230">12:41:07.213 · 1.1.5 → 0/0/5 · Write · 1-byte · 0x01</text>
+    <text x="690" y="256">12:41:07.540 · 1.1.5 → 0/0/5 · Response · OK</text>
+    <text x="690" y="282">12:41:08.112 · 1.1.5 ← 1.1.7 · Acknowledge</text>
+    <text x="690" y="308">12:41:08.417 · 1.1.7 → 0/2/1 · Write · HVAC_Mode = Comfort</text>
+    <text x="690" y="334">12:41:09.002 · 1.1.4 → 0/0/1 · Sensor Presence = 1</text>
+    <text x="690" y="360">12:41:09.487 · 1.1.5 → 0/0/2 · Light Scene = 3</text>
+    <text x="690" y="386">12:41:09.872 · 1.1.6 → 0/2/3 · Fan Speed = 2</text>
+    <text x="690" y="412">12:41:10.214 · 1.1.1 → 0/0/2 · Status = ON</text>
+    <text x="690" y="438">12:41:10.642 · 1.1.5 → 0/0/5 · Write · 1-byte · 0x00</text>
+    <text x="690" y="464">12:41:11.124 · 1.1.5 → 0/0/5 · Response · OK</text>
+    <text x="690" y="490">12:41:11.588 · 1.1.7 → 0/2/1 · Write · HVAC_Mode = Standby</text>
+    <text x="690" y="516">12:41:12.056 · 1.1.4 → 0/0/1 · Sensor Presence = 0</text>
+    <text x="690" y="542">12:41:12.440 · 1.1.6 → 0/2/3 · Fan Speed = 1</text>
+  </g>
+</svg>
