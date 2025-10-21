@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Centro de recursos ETS5</title>
+  <desc id="desc">Pantalla recreada del centro de recursos y actualizaciones de ETS5 con enlaces a formación.</desc>
+  <rect width="1280" height="720" fill="#111b2d" />
+  <rect x="60" y="60" width="1160" height="600" rx="20" fill="#f4f7fc" stroke="#c7d3e9" stroke-width="3" />
+  <rect x="60" y="60" width="1160" height="54" rx="20" fill="#1f2c41" />
+  <text x="100" y="98" font-family="'Segoe UI', sans-serif" font-size="22" fill="#f4f7fb">Centro de recursos ETS5</text>
+  <rect x="1020" y="78" width="160" height="28" rx="14" fill="#3ad3ff" opacity="0.85" />
+  <text x="1052" y="98" font-family="'Segoe UI', sans-serif" font-size="16" fill="#102037">Actualizar catálogos</text>
+  <rect x="100" y="140" width="360" height="500" rx="16" fill="#1f2c41" />
+  <text x="126" y="182" font-family="'Segoe UI', sans-serif" font-size="18" fill="#9fbdf5">Novedades</text>
+  <text x="126" y="218" font-family="'Segoe UI', sans-serif" font-size="16" fill="#d9e5ff">• ETS5.7 Update · Mejoras en diagnóstico</text>
+  <text x="126" y="248" font-family="'Segoe UI', sans-serif" font-size="16" fill="#d9e5ff">• Nuevos apps: Project Tracing, Device Compare</text>
+  <text x="126" y="278" font-family="'Segoe UI', sans-serif" font-size="16" fill="#d9e5ff">• Biblioteca de productos 05/2024 disponible</text>
+  <text x="126" y="338" font-family="'Segoe UI', sans-serif" font-size="18" fill="#9fbdf5">Eventos</text>
+  <text x="126" y="374" font-family="'Segoe UI', sans-serif" font-size="16" fill="#d9e5ff">• Webinar ETS5 Secure · 28 mayo</text>
+  <text x="126" y="404" font-family="'Segoe UI', sans-serif" font-size="16" fill="#d9e5ff">• KNX Training Week · 10-14 junio</text>
+  <text x="126" y="434" font-family="'Segoe UI', sans-serif" font-size="16" fill="#d9e5ff">• Laboratorio abierto · 22 junio</text>
+  <rect x="500" y="140" width="680" height="220" rx="16" fill="#ffffff" />
+  <text x="530" y="180" font-family="'Segoe UI', sans-serif" font-size="18" fill="#233450" font-weight="600">Recursos de formación</text>
+  <text x="530" y="210" font-family="'Segoe UI', sans-serif" font-size="16" fill="#4e6286">• Curso oficial KNX Partner · Modalidad híbrida</text>
+  <text x="530" y="240" font-family="'Segoe UI', sans-serif" font-size="16" fill="#4e6286">• Tutorial: Diseño de escenas en ETS5</text>
+  <text x="530" y="270" font-family="'Segoe UI', sans-serif" font-size="16" fill="#4e6286">• Manual: Mejores prácticas de documentación</text>
+  <text x="530" y="300" font-family="'Segoe UI', sans-serif" font-size="16" fill="#4e6286">• Laboratorio virtual: Simulador KNX</text>
+  <rect x="500" y="380" width="320" height="260" rx="16" fill="#ffffff" />
+  <text x="530" y="420" font-family="'Segoe UI', sans-serif" font-size="18" fill="#233450" font-weight="600">Descargas</text>
+  <text x="530" y="452" font-family="'Segoe UI', sans-serif" font-size="16" fill="#4e6286">• Catálogo 2024_Q2.knxprod</text>
+  <text x="530" y="482" font-family="'Segoe UI', sans-serif" font-size="16" fill="#4e6286">• Plantillas de proyecto .knxproj</text>
+  <text x="530" y="512" font-family="'Segoe UI', sans-serif" font-size="16" fill="#4e6286">• Checklist de puesta en marcha.pdf</text>
+  <text x="530" y="542" font-family="'Segoe UI', sans-serif" font-size="16" fill="#4e6286">• Guía de compatibilidad DPT.xlsx</text>
+  <rect x="850" y="380" width="330" height="260" rx="16" fill="#ffffff" />
+  <text x="880" y="420" font-family="'Segoe UI', sans-serif" font-size="18" fill="#233450" font-weight="600">Comunidad</text>
+  <text x="880" y="452" font-family="'Segoe UI', sans-serif" font-size="16" fill="#4e6286">• KNX User Club España</text>
+  <text x="880" y="482" font-family="'Segoe UI', sans-serif" font-size="16" fill="#4e6286">• Foro ETS5 Troubleshooting</text>
+  <text x="880" y="512" font-family="'Segoe UI', sans-serif" font-size="16" fill="#4e6286">• Grupo Telegram KNX Latam</text>
+  <text x="880" y="542" font-family="'Segoe UI', sans-serif" font-size="16" fill="#4e6286">• Newsletter mensual ETS</text>
+</svg>
